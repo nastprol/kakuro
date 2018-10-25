@@ -1,7 +1,7 @@
 # Kakuro Solver
 
-## Требования
-* Python версии не ниже 3.4
+## Requirements
+* version not lower than Python 3.4
 * sys
 * re
 * copy
